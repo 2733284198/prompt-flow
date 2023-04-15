@@ -2,6 +2,10 @@
 
 ---
 
+前置步骤：使用ChatMoss，关闭联网，开启上下文功能等等，根据实际情况来
+
+---
+
 问答流程模板参考：
 
 步骤一输入：
@@ -21,5 +25,7 @@
 ---
 
 > 4月ChatMoss Flow 比赛，评分结果以本帖点赞为准，本帖子之后的点赞不算
+
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/31264015/232193420-6ce837ae-e4fe-4abc-b476-a677c28b70b1.png">
 
 ---

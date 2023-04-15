@@ -1,14 +1,12 @@
 ---
 
-name: "Template Name"
-about: "This template is for testing!"
-title: "[TEST] "
+name: "4月活动"
+about: "这是4月活动"
 ref: "main"
-labels:
-
-- bug
-- "help needed"
+labels: 4月活动
 
 ---
 
-This is the template!
+问答步骤与流程：
+
+您的登录邮箱（发放奖励使用）：

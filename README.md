@@ -22,7 +22,7 @@ Prompt Flow可以帮助你更有效地利用Prompt技术，通过收集和分享
 
 ## 官方示例
 
-[如何实现xxx论文](https://github.com/AICCOF/chatmoss-prompt-flow/issues/1)
+[如何实现xxx论文](https://github.com/AICCOF/prompt-flow/issues/1)
 
 ---
 
@@ -34,7 +34,7 @@ Prompt Flow可以帮助你更有效地利用Prompt技术，通过收集和分享
 
 ## 开始提交您的 Prompt Flow
 
-[提交链接](https://github.com/AICCOF/chatmoss-prompt-flow/issues/new)
+[提交链接](https://github.com/AICCOF/prompt-flow/issues/new)
 
 ---
 

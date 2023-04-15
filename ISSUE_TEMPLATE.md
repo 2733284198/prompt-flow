@@ -1,9 +1,9 @@
 ---
 
-name: "4月活动"
+name: "April activities"
 about: "这是4月活动"
 ref: "main"
-labels: 4月活动
+labels: "April activities"
 
 ---
 
